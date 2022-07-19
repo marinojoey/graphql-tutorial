@@ -12,3 +12,4 @@
   - Front-end access/manipulation of data
   - Establishing typeDef's/Resolvers
   - Please reference the *very* limited nationality enum when making a new user
+- I would have liked to have two top level directories for `server` and `client`. The project begain without a client, so I didn't realize ahead of time that it would be necessary...
